@@ -1,0 +1,28 @@
+{
+  "checkedAt": "2026-11-04T11:35:13.385Z",
+  "origin": "https://web-arankey.vercel.app",
+  "ok": true,
+  "checks": [
+    {
+      "path": "/",
+      "ok": true,
+      "status": 200,
+      "attempts": 1,
+      "durationMs": 510
+    },
+    {
+      "path": "/healthz",
+      "ok": true,
+      "status": 200,
+      "attempts": 1,
+      "durationMs": 517
+    },
+    {
+      "path": "/api/public/properties",
+      "ok": true,
+      "status": 200,
+      "attempts": 1,
+      "durationMs": 1436
+    }
+  ]
+}
